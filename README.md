@@ -5,6 +5,12 @@
 
 ### My Tech Toolbox 🧰
 
+<p align="left">
+<img src="https://cran.r-project.org/Rlogo.svg" alt="r" width="40" height="40"/> 
+<img src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1-552x640.png" alt="shiny" height="40"/> 
+<img src="https://www.tidyverse.org/images/hex-tidyverse.png" alt="tidyverse" height="40"/> 
+</p>
+
 * My primary coding language is:  R
 * My to do list includes learning and becoming familiar with:  Python
 
