@@ -29,7 +29,7 @@
 
 [<img height="60" src="https://raw.githubusercontent.com/evan-l-munson/saotd/update_package/man/hex_saotd.png" />][saotd]
 
-#### Proffesional (access will require a DevForce account)
+#### Professional (access will require a DevForce account)
 
 [<img height="60" src="www/hex_netic.png" />][netic]
 [<img height="60" src="www/hex_fever.png" />][fever]
