@@ -32,9 +32,10 @@
 #### Professional (access will require a DevForce account)
 
 [<img height="60" src="www/hex_netic.png" />][netic]
+[<img height="60" src="www/asset.png" />][gavt]
 [<img height="60" src="www/hex_fever.png" />][fever]
 [<img height="60" src="www/hex_iFEMS.png" />][ifems]
-[<img height="60" src="www/hex_SUIT.png" />][suit]
+[<img height="60" src="www/hex_SUIT_v2.png" />][suit]
 
 ### My todo list
 
@@ -46,6 +47,7 @@
 [ORCID ID]: http://orcid.org/0000-0002-9958-6800
 [saotd]: https://github.com/evan-l-munson/saotd
 [netic]: https://gitlab.devforce.disa.mil/netc-dsd/netic
+[gavt]: https://gitlab.devforce.disa.mil/netc-dsd/gavt
 [fever]: https://gitlab.devforce.disa.mil/netc-dsd/fever
 [ifems]: https://gitlab.devforce.disa.mil/netc-dsd/ifems
 [suit]: https://gitlab.devforce.disa.mil/netc-dsd/suit
