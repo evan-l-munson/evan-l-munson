@@ -32,7 +32,7 @@
 #### Professional (access will require a DevForce account)
 
 [<img height="60" src="www/hex_netic.png" />][netic]
-[<img height="60" src="www/asset.png" />][gavt]
+[<img height="60" src="www/hex_GAVT.png" />][gavt]
 [<img height="60" src="www/hex_fever.png" />][fever]
 [<img height="60" src="www/hex_iFEMS.png" />][ifems]
 [<img height="60" src="www/hex_SUIT_v2.png" />][suit]
