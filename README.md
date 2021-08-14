@@ -28,14 +28,16 @@
 ### Some of my favorite Tech Tools
 
 <p align="left">
-<img src="https://docs.rstudio.com/connect/admin/images/RStudio-ball.svg" alt="r" width="60" height="60"/> 
-<img src="https://cran.r-project.org/Rlogo.svg" alt="r" width="60" height="60"/> 
-<img src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1-552x640.png" alt="shiny" height="60"/> 
-<img src="https://www.tidyverse.org/images/hex-tidyverse.png" alt="tidyverse" height="60"/> 
-<img src="https://raw.githubusercontent.com/juliasilge/tidytext/master/man/figures/tidytext.png" alt="tidytext" height="60"/> 
-<img src="https://devtools.r-lib.org/reference/figures/logo.svg" alt="devtools" height="60"/> 
-<img src="https://raw.githubusercontent.com/r-lib/testthat/master/man/figures/logo.png" alt="testthat" height="60"/> 
-<img src="https://usethis.r-lib.org/reference/figures/logo.png" alt="usethis" height="60"/> 
+<img src="https://docs.rstudio.com/connect/admin/images/RStudio-ball.svg" alt="r" width="50" height="50"/> 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="r" width="50" height="50"/> 
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="r" width="50" height="50"/> 
+<img src="https://cran.r-project.org/Rlogo.svg" alt="r" width="50" height="50"/> 
+<img src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1-552x640.png" alt="shiny" height="50"/> 
+<img src="https://www.tidyverse.org/images/hex-tidyverse.png" alt="tidyverse" height="50"/> 
+<img src="https://raw.githubusercontent.com/juliasilge/tidytext/master/man/figures/tidytext.png" alt="tidytext" height="50"/> 
+<img src="https://devtools.r-lib.org/reference/figures/logo.svg" alt="devtools" height="50"/> 
+<img src="https://raw.githubusercontent.com/r-lib/testthat/master/man/figures/logo.png" alt="testthat" height="50"/> 
+<img src="https://usethis.r-lib.org/reference/figures/logo.png" alt="usethis" height="50"/> 
 </p>
 
 ### My todo list
