@@ -4,18 +4,6 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/orcid-green.svg?&style=for-the-badge&logo=orcid&logoColor=white" />][ORCID ID]
 
-### Some of my favorite Tech Tools
-
-<p align="left">
-<img src="https://cran.r-project.org/Rlogo.svg" alt="r" width="60" height="60"/> 
-<img src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1-552x640.png" alt="shiny" height="60"/> 
-<img src="https://www.tidyverse.org/images/hex-tidyverse.png" alt="tidyverse" height="60"/> 
-<img src="https://raw.githubusercontent.com/juliasilge/tidytext/master/man/figures/tidytext.png" alt="tidytext" height="60"/> 
-<img src="https://devtools.r-lib.org/reference/figures/logo.svg" alt="devtools" height="60"/> 
-<img src="https://raw.githubusercontent.com/r-lib/testthat/master/man/figures/logo.png" alt="testthat" height="60"/> 
-<img src="https://usethis.r-lib.org/reference/figures/logo.png" alt="usethis" height="60"/> 
-</p>
-
 ### About me
 
 * My primary coding language is:  R
@@ -36,6 +24,19 @@
 [<img height="60" src="www/hex_fever.png" />][fever]
 [<img height="60" src="www/hex_iFEMS.png" />][ifems]
 [<img height="60" src="www/hex_SUIT_v2.png" />][suit]
+
+### Some of my favorite Tech Tools
+
+<p align="left">
+<img src="https://docs.rstudio.com/connect/admin/images/RStudio-ball.svg" alt="r" width="60" height="60"/> 
+<img src="https://cran.r-project.org/Rlogo.svg" alt="r" width="60" height="60"/> 
+<img src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1-552x640.png" alt="shiny" height="60"/> 
+<img src="https://www.tidyverse.org/images/hex-tidyverse.png" alt="tidyverse" height="60"/> 
+<img src="https://raw.githubusercontent.com/juliasilge/tidytext/master/man/figures/tidytext.png" alt="tidytext" height="60"/> 
+<img src="https://devtools.r-lib.org/reference/figures/logo.svg" alt="devtools" height="60"/> 
+<img src="https://raw.githubusercontent.com/r-lib/testthat/master/man/figures/logo.png" alt="testthat" height="60"/> 
+<img src="https://usethis.r-lib.org/reference/figures/logo.png" alt="usethis" height="60"/> 
+</p>
 
 ### My todo list
 
