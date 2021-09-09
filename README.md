@@ -24,6 +24,8 @@
 [<img height="60" src="www/hex_fever.png" />][fever]
 [<img height="60" src="www/hex_iFEMS.png" />][ifems]
 [<img height="60" src="www/hex_SUIT_v2.png" />][suit]
+[<img height="60" src="www/hex_GPA.png" />][gpa]
+
 
 ### Some of my favorite Tech Tools
 
@@ -53,4 +55,6 @@
 [gavt]: https://gitlab.devforce.disa.mil/netc-dsd/gavt
 [fever]: https://gitlab.devforce.disa.mil/netc-dsd/fever
 [ifems]: https://gitlab.devforce.disa.mil/netc-dsd/ifems
-[suit]: https://gitlab.devforce.disa.mil/netc-dsd/suit
+[suit]: https://gitlab.devforce.disa.mil/netc-dsd/pmo/suit
+[gpa]: https://gitlab.devforce.disa.mil/netc-dsd/pmo/gpa
+
