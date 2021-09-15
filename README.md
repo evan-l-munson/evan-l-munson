@@ -10,6 +10,7 @@
 * I enjoy developing R packages.
 * I have also started to enjoy developing Shiny Applications.
 * I studied Operations Research in graduate school which started me down the path to be a data scientist.
+* Look here for my [resume](https://evan-l-munson.github.io/elm_resume/).
 
 ### My Projects
 
