@@ -6,11 +6,11 @@
 
 ### About me
 
+* I am an experienced Data Scientist and Manager of Analytic Projects.
 * My primary coding language is:  R
-* I enjoy developing R packages.
-* I have also started to enjoy developing Shiny Applications.
-* I studied Operations Research in graduate school which started me down the path to be a data scientist.
-* Look here for my [resume](https://evan-l-munson.github.io/elm_resume/).
+* I enjoy developing R packages and Shiny Applications!
+* I studied Operations Research in graduate school which started me down the path to be a Data Scientist.
+* Look here for my [resume](https://evan-l-munson.github.io/elm_resume/)!
 
 ### My Projects
 
