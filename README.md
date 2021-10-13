@@ -45,7 +45,7 @@
 
 ### My todo list
 
-* Updating my [`saotd`](https://github.com/evan-l-munson/saotd) package and resubmitting it to CRAN.
+* Continuing to improve my [`saotd`](https://github.com/evan-l-munson/saotd) package with additional capabilities and features.
 * Learning and becoming familiar with:  Python
 
 [twitter]: https://twitter.com/spot2ring
