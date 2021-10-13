@@ -27,7 +27,6 @@
 [<img height="60" src="www/hex_SUIT_v2.png" />][suit]
 [<img height="60" src="www/hex_GPA.png" />][gpa]
 
-
 ### Some of my favorite Tech Tools
 
 <p align="left">
