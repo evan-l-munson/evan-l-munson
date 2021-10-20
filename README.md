@@ -26,6 +26,7 @@
 [<img height="60" src="www/hex_iFEMS.png" />][ifems]
 [<img height="60" src="www/hex_SUIT_v2.png" />][suit]
 [<img height="60" src="www/hex_GPA.png" />][gpa]
+[<img height="60" src="www/hex_S2M2.png" />][s2m2]
 
 ### Some of my favorite Tech Tools
 
@@ -45,7 +46,8 @@
 ### My todo list
 
 * Continuing to improve my [`saotd`](https://github.com/evan-l-munson/saotd) package with additional capabilities and features.
-* Learning and becoming familiar with:  Python
+* Learn and Explore the `tidymodels` package framework.
+* Learn and becoming familiar with:  Python
 
 [twitter]: https://twitter.com/spot2ring
 [linkedin]: https://www.linkedin.com/in/evan-munson-50033b61/
@@ -57,4 +59,5 @@
 [ifems]: https://gitlab.devforce.disa.mil/netc-dsd/ifems
 [suit]: https://gitlab.devforce.disa.mil/netc-dsd/pmo/suit
 [gpa]: https://gitlab.devforce.disa.mil/netc-dsd/pmo/gpa
+[s2m2]: https://gitlab.devforce.disa.mil/netc-dsd/pmo/s2m2
 
