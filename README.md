@@ -16,7 +16,8 @@
 
 #### Personal
 
-[<img height="60" src="https://raw.githubusercontent.com/evan-l-munson/saotd/update_package/man/hex_saotd.png" />][saotd]
+[<img height="60" src="https://github.com/evan-l-munson/saotd/raw/master/man/figures/hex_saotd.png" />][saotd]
+[<img height="60" src="https://github.com/evan-l-munson/SUIT/raw/master/www/hex_SUIT_v2.png" />][suit]
 
 #### Professional (access will require a DevForce account)
 
