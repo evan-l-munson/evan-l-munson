@@ -17,7 +17,7 @@
 #### Personal
 
 [<img height="60" src="https://github.com/evan-l-munson/saotd/raw/master/man/figures/hex_saotd.png" />][saotd]
-[<img height="60" src="https://github.com/evan-l-munson/SUIT/raw/master/www/hex_SUIT_v2.png" />][suit]
+[<img height="60" src="https://github.com/evan-l-munson/SUIT/raw/master/www/hex_SUIT_v2.png" />][suit_public]
 
 #### Professional (access will require a DevForce account)
 
@@ -63,4 +63,4 @@
 [suit]: https://gitlab.devforce.disa.mil/netc-dsd/pmo/suit
 [gpa]: https://gitlab.devforce.disa.mil/netc-dsd/pmo/gpa
 [s2m2]: https://gitlab.devforce.disa.mil/netc-dsd/pmo/s2m2
-
+[suit_public]: https://github.com/evan-l-munson/SUIT
