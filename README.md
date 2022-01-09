@@ -4,7 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/orcid-green.svg?&style=for-the-badge&logo=orcid&logoColor=white" />][ORCID ID]
 
-### &#x2692; About me
+### About me
 
 * I am an experienced Data Scientist and Manager of Analytic Projects.
 * My primary coding language is:  R
@@ -12,7 +12,7 @@
 * I studied Operations Research in graduate school which started me down the path to be a Data Scientist.
 * Look here for my [resume](https://evan-l-munson.github.io/elm_resume/)!
 
-### &#x2636; My Projects
+### My Projects
 
 #### Personal
 
@@ -30,7 +30,7 @@
 [<img height="60" src="www/hex_GPA.png" />][gpa]
 [<img height="60" src="www/hex_S2M2.png" />][s2m2]
 
-### &#x2699; Some of my favorite Tech Tools
+### Some of my favorite Tech Tools
 
 <p align="left">
 <img src="https://docs.rstudio.com/connect/admin/images/RStudio-ball.svg" alt="r" width="50" height="50"/> 
