@@ -12,6 +12,9 @@
 * I studied Operations Research in graduate school which started me down the path to be a Data Scientist.
 * Look here for my [resume](https://evan-l-munson.github.io/elm_resume/)!
 
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-l-munson&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-l-munson&hide=javascript)
+
 ### My Projects
 
 #### Personal
