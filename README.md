@@ -4,7 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/orcid-green.svg?&style=for-the-badge&logo=orcid&logoColor=white" />][ORCID ID]
 
-### About me
+### &#x2692; About me
 
 * I am an experienced Data Scientist and Manager of Analytic Projects.
 * My primary coding language is:  R
@@ -12,10 +12,7 @@
 * I studied Operations Research in graduate school which started me down the path to be a Data Scientist.
 * Look here for my [resume](https://evan-l-munson.github.io/elm_resume/)!
 
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-l-munson&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-l-munson&hide=javascript)
-
-### My Projects
+### &#x2636; My Projects
 
 #### Personal
 
@@ -33,7 +30,7 @@
 [<img height="60" src="www/hex_GPA.png" />][gpa]
 [<img height="60" src="www/hex_S2M2.png" />][s2m2]
 
-### Some of my favorite Tech Tools
+### &#x2699; Some of my favorite Tech Tools
 
 <p align="left">
 <img src="https://docs.rstudio.com/connect/admin/images/RStudio-ball.svg" alt="r" width="50" height="50"/> 
@@ -54,6 +51,15 @@
 * Continuing to improve my [`saotd`](https://github.com/evan-l-munson/saotd) package with additional capabilities and features.
 * Learn and Explore the `tidymodels` package framework.
 * Learn and becoming familiar with:  Python
+
+### GitHub Stats
+
+<a href="https://github.com/evan-l-munson/evan-l-munson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-l-munson&hide=JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/evan-l-munson/evan-l-munson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evan-l-munson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 [twitter]: https://twitter.com/spot2ring
 [linkedin]: https://www.linkedin.com/in/evan-munson-50033b61/
