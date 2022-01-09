@@ -37,6 +37,7 @@
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="r" width="50" height="50"/> 
 <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="r" width="50" height="50"/> 
 <img src="https://cran.r-project.org/Rlogo.svg" alt="r" width="50" height="50"/> 
+<img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="flexdashboard" height="50"/> 
 <img src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1-552x640.png" alt="shiny" height="50"/> 
 <img src="https://www.tidyverse.org/images/hex-tidyverse.png" alt="tidyverse" height="50"/> 
 <img src="https://raw.githubusercontent.com/juliasilge/tidytext/master/man/figures/tidytext.png" alt="tidytext" height="50"/> 
